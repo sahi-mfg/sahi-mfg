@@ -65,7 +65,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 🌐 Liens & contact
 
-- [LinkedIn](https://www.linkedin.com/in/ton-profil) <!-- Remplace ce lien par le tien -->
+- [LinkedIn](https://www.linkedin.com/in/sahi-mohamed-francis-gonsangbeu/) 
 - Site web personnel : bientôt disponible !
 
 ---
