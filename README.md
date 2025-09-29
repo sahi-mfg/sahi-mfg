@@ -1,4 +1,4 @@
-# Salut, je suis Sahi 👋
+# Hello, je suis Sahi 👋
 
 Bienvenue sur mon profil GitHub !
 
