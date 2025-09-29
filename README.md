@@ -11,7 +11,7 @@ Bienvenue sur mon profil GitHub !
   Modélisation, Data Science, interdisciplinarité (philosophie, sociologie)  
   **Mathématiques** : algèbre linéaire, calcul différentiel, processus stochastiques, statistiques et probabilités, méthodes numériques de résolution d'équations différentielles et d'EDP
 
-## 🚀 Quelques projets représentatifs
+## 🚀 Quelques projets 
 
 <table>
   <tr>
