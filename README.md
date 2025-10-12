@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub !
 - **Langages & outils favoris :**  
   Python, Go, R, FastAPI, Streamlit, PyTorch, scikit-learn, pandas, numpy, scipy  
 - **Intérêts professionnels :**  
-  Modélisation, Data Science, interdisciplinarité (philosophie, sociologie)  
+  Modélisation, Data Science, interdisciplinarité (économie, finance, physique, philosophie, sociologie)  
   **Mathématiques** : algèbre linéaire, calcul différentiel, processus stochastiques, statistiques et probabilités, méthodes numériques de résolution d'équations différentielles et d'EDP
 
 ## 🚀 Quelques projets 
