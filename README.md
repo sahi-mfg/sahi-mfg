@@ -4,7 +4,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 👨‍💻 À propos de moi
 
-- **Profession :** Data Scientist  
+- **Profession :** Data Scientist | Ingénieur en Mathématiques Appliquées et Modélisation 
 - **Langages & outils favoris :**  
   Python, Go, R, FastAPI, Streamlit, PyTorch, scikit-learn, pandas, numpy, scipy  
 - **Intérêts professionnels :**  
