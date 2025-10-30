@@ -16,7 +16,7 @@ Bienvenue sur mon profil GitHub !
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/sahi-mfg/age-detection-api">
+      <a href="https://github.com/sahi-mfg/age_detection_api">
         <img src="https://github.com/sahi-mfg/sahi-mfg/blob/main/assets/age-detection-api.png" width="80" alt="Age Detection API"/><br/>
         <b>age-detection-api</b>
       </a>
